@@ -1,6 +1,6 @@
 # Movie Sales Treemap
 
-Project for freeCodeCamp Data certification using API/REST.
+Project for freeCodeCamp Data certification using API/REST and D3.js
 
 ---
 
